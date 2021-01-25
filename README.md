@@ -21,7 +21,7 @@
 3、在Rstudio的console中键入命令
 ```
 install.packages(c('repr', 'IRkernel', 'IRdisplay'), 
-repos= c('http://irkernel.github.io/', getOption('repos')))
+     repos= c('http://irkernel.github.io/', getOption('repos')))
 ```
 安装必要的包
 4、进入anaconda的安装目录，然后进入jupyter的内核目录；
