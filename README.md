@@ -39,4 +39,5 @@ install.packages(c('repr', 'IRkernel', 'IRdisplay'), repos= c('http://irkernel.g
 }
 ```
 注意R.exe的路径
+
 6、logo文件可以自行替换，或者直接删掉，亦或是不动。
