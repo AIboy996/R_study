@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<root>
+	<data>
+		<record>
+			<field name="时间">2019年</field>
+			<field name="指标">国民总收入(亿元)</field>
+			<field name="数据">984179.0</field>
+		</record>
+		<record>
+			<field name="时间">2019年</field>
+			<field name="指标">国内生产总值(亿元)</field>
+			<field name="数据">986515.2</field>
+		</record>
+		<record>
+			<field name="时间">2019年</field>
+			<field name="指标">第一产业增加值(亿元)</field>
+			<field name="数据">70473.6</field>
+		</record>
+		<record>
+			<field name="时间">2019年</field>
+			<field name="指标">第二产业增加值(亿元)</field>
+			<field name="数据">380670.6</field>
+		</record>
+		<record>
+			<field name="时间">2019年</field>
+			<field name="指标">第三产业增加值(亿元)</field>
+			<field name="数据">535371.0</field>
+		</record>
+		<record>
+			<field name="时间">2019年</field>
+			<field name="指标">人均国内生产总值(元)</field>
+			<field name="数据">70581</field>
+		</record>
+		<record>
+			<field name="时间">2018年</field>
+			<field name="指标">国民总收入(亿元)</field>
+			<field name="数据">914327.1</field>
+		</record>
+		<record>
+			<field name="时间">2018年</field>
+			<field name="指标">国内生产总值(亿元)</field>
+			<field name="数据">919281.1</field>
+		</record>
+		<record>
+			<field name="时间">2018年</field>
+			<field name="指标">第一产业增加值(亿元)</field>
+			<field name="数据">64745.2</field>
+		</record>
+		<record>
+			<field name="时间">2018年</field>
+			<field name="指标">第二产业增加值(亿元)</field>
+			<field name="数据">364835.2</field>
+		</record>
+		<record>
+			<field name="时间">2018年</field>
+			<field name="指标">第三产业增加值(亿元)</field>
+			<field name="数据">489700.8</field>
+		</record>
+		<record>
+			<field name="时间">2018年</field>
+			<field name="指标">人均国内生产总值(元)</field>
+			<field name="数据">66006</field>
+		</record>
+		<record>
+			<field name="时间">2017年</field>
+			<field name="指标">国民总收入(亿元)</field>
+			<field name="数据">831381.2</field>
+		</record>
+		<record>
+			<field name="时间">2017年</field>
+			<field name="指标">国内生产总值(亿元)</field>
+			<field name="数据">832035.9</field>
+		</record>
+		<record>
+			<field name="时间">2017年</field>
+			<field name="指标">第一产业增加值(亿元)</field>
+			<field name="数据">62099.5</field>
+		</record>
+		<record>
+			<field name="时间">2017年</field>
+			<field name="指标">第二产业增加值(亿元)</field>
+			<field name="数据">331580.5</field>
+		</record>
+		<record>
+			<field name="时间">2017年</field>
+			<field name="指标">第三产业增加值(亿元)</field>
+			<field name="数据">438355.9</field>
+		</record>
+		<record>
+			<field name="时间">2017年</field>
+			<field name="指标">人均国内生产总值(元)</field>
+			<field name="数据">60014</field>
+		</record>
+		<record>
+			<field name="时间">2016年</field>
+			<field name="指标">国民总收入(亿元)</field>
+			<field name="数据">743408.3</field>
+		</record>
+		<record>
+			<field name="时间">2016年</field>
+			<field name="指标">国内生产总值(亿元)</field>
+			<field name="数据">746395.1</field>
+		</record>
+		<record>
+			<field name="时间">2016年</field>
+			<field name="指标">第一产业增加值(亿元)</field>
+			<field name="数据">60139.2</field>
+		</record>
+		<record>
+			<field name="时间">2016年</field>
+			<field name="指标">第二产业增加值(亿元)</field>
+			<field name="数据">295427.8</field>
+		</record>
+		<record>
+			<field name="时间">2016年</field>
+			<field name="指标">第三产业增加值(亿元)</field>
+			<field name="数据">390828.1</field>
+		</record>
+		<record>
+			<field name="时间">2016年</field>
+			<field name="指标">人均国内生产总值(元)</field>
+			<field name="数据">54139</field>
+		</record>
+		<record>
+			<field name="时间">2015年</field>
+			<field name="指标">国民总收入(亿元)</field>
+			<field name="数据">686255.7</field>
+		</record>
+		<record>
+			<field name="时间">2015年</field>
+			<field name="指标">国内生产总值(亿元)</field>
+			<field name="数据">688858.2</field>
+		</record>
+		<record>
+			<field name="时间">2015年</field>
+			<field name="指标">第一产业增加值(亿元)</field>
+			<field name="数据">57774.6</field>
+		</record>
+		<record>
+			<field name="时间">2015年</field>
+			<field name="指标">第二产业增加值(亿元)</field>
+			<field name="数据">281338.9</field>
+		</record>
+		<record>
+			<field name="时间">2015年</field>
+			<field name="指标">第三产业增加值(亿元)</field>
+			<field name="数据">349744.7</field>
+		</record>
+		<record>
+			<field name="时间">2015年</field>
+			<field name="指标">人均国内生产总值(元)</field>
+			<field name="数据">50237</field>
+		</record>
+	</data>
+</root>
